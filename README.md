@@ -42,7 +42,7 @@ Console screenshot:
 ### Question3.
 =================================
 
-Iterating Over Two Text Inputs
+Iterating Over Two Text Inputs:
 
 This Python program takes two separate text inputs from the user, combines them into a single string, and then iterates over each 
 characterin the combined result. The individual characters are collected into a list and displayed, providing a clear view of all 
