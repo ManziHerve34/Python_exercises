@@ -21,7 +21,7 @@ A function to Check for a palindrome in the user input
 
    <img width="960" alt="Q2 1" src="https://github.com/user-attachments/assets/e4ed2809-72f1-4d78-ab96-7aee58829afc" />
 
-   ii. For case where the input is not a pelindrome
+    ii. For case where the input is not a pelindrome
 
    <img width="960" alt="Q2 2" src="https://github.com/user-attachments/assets/82d75c54-c184-4a1a-af2f-4cdbaee38cf0" />
 
