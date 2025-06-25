@@ -15,7 +15,7 @@ Age Calculator Using a Function:
 ### Question2.
 ================================
 
-A function to Check for a palindrome in the user input
+A function to Check if the user input is a pelindrome
   
     i. For case where the input is a pelindrome
 
