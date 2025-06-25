@@ -7,7 +7,11 @@
 ### Question1. 
 ============================
 
-Age Calculator Using a Function: 
+Developing Age Calculator Using a Function: 
+
+This is a simple Python program that calculates a user's age based on their year of birth. It prompts the user to enter 
+their name and birth year,computes the current age using a predefined current year, and then displays the result with 
+a personalized message.The core logic is organized into reusable functions for clean structure and readability.
 
 
 <img width="960" alt="Q1" src="https://github.com/user-attachments/assets/d215805a-4bf9-4be3-a492-c1d209fb02a5" />
@@ -16,6 +20,10 @@ Age Calculator Using a Function:
 ================================
 
 A function to Check if the user input is a palindrome
+
+This Python script checks whether a given string is a palindrome — a word or phrase that reads the same forwards and backwards.
+The program takes user input, reverses the string using slicing, and compares it to the original. It then prints a message 
+indicating whether or not the input is a palindrome.
   
     i. For case where the input is a palindrome
 
@@ -30,6 +38,10 @@ A function to Check if the user input is a palindrome
 =================================
 
 Iterating Over Two Text Inputs
+
+This Python program takes two separate text inputs from the user, combines them into a single string, and then iterates over each 
+characterin the combined result. The individual characters are collected into a list and displayed, providing a clear view of all 
+characters from bothinputs. The script ends with a friendly message, making it simple and interactive.
 
 <img width="960" alt="Q3" src="https://github.com/user-attachments/assets/349ece6f-92ac-42c3-89aa-5e080df25e9f" />
 
