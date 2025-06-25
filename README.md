@@ -1,3 +1,3 @@
 # Python_exercises
 
-These exercises 
+## These exercises come with a purpose of getting used to python programming language. 
