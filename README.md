@@ -10,4 +10,5 @@
 Age Calculator Using a Function: 
 
 
+<img width="960" alt="Q1" src="https://github.com/user-attachments/assets/d215805a-4bf9-4be3-a492-c1d209fb02a5" />
 
