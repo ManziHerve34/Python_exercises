@@ -15,13 +15,14 @@ Age Calculator Using a Function:
 ### Question2.
 ================================
 
-A function to Check if the user input is a pelindrome
+A function to Check if the user input is a palindrome
   
-    i. For case where the input is a pelindrome
+    i. For case where the input is a palindrome
 
    <img width="960" alt="Q2 1" src="https://github.com/user-attachments/assets/e4ed2809-72f1-4d78-ab96-7aee58829afc" />
+   
 
-    ii. For case where the input is not a pelindrome
+    ii. For case where the input is not a palindrome
 
    <img width="960" alt="Q2 2" src="https://github.com/user-attachments/assets/82d75c54-c184-4a1a-af2f-4cdbaee38cf0" />
 
