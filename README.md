@@ -53,4 +53,11 @@ Console screenshot:
 <img width="960" alt="Q3" src="https://github.com/user-attachments/assets/349ece6f-92ac-42c3-89aa-5e080df25e9f" />
 
 
+List of Group 12 members:
 
+1. Manzi Herve 24605
+2. Teta uwase huguette 25513
+3. MUNYAMBONERA MUCYO Gretta 25451
+4. NGABONZIZA Kim Gakuba 27670
+5. Kayiranga Deus 26699
+6. Nkuranga James 26285
