@@ -1,15 +1,3 @@
-
-List of Group 12 members:
-
-Manzi Herve 24605
-MUNYAMBONERA MUCYO Gretta 25451
-NGABONZIZA Kim Gakuba 27670
-nkuranga James 26285
-Teta uwase huguette 25513
-Kayiranga Deus 26699
-
-
-
 # Python_exercises
 
 ## These exercises come with a purpose of getting used to python programming language. 
@@ -65,6 +53,13 @@ Console screenshot:
 <img width="960" alt="Q3" src="https://github.com/user-attachments/assets/349ece6f-92ac-42c3-89aa-5e080df25e9f" />
 
    
-     
+List of Group 12 members:
+
+Manzi Herve 24605
+MUNYAMBONERA MUCYO Gretta 25451
+NGABONZIZA Kim Gakuba 27670
+nkuranga James 26285
+Teta uwase huguette 25513
+Kayiranga Deus 26699
 
 
