@@ -55,6 +55,12 @@ Console screenshot:
    
      
 
-   
+  List of Group members:
 
+  1. Manzi Herve 24605
+  2. MUNYAMBONERA MUCYO Gretta 25451
+  3. NGABONZIZA Kim Gakuba 27670
+  4. nkuranga James 26285
+  5. Teta uwase huguette 25513
+  6. Kayiranga Deus 26699
     
